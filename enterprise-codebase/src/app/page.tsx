@@ -1,0 +1,1 @@
+export default function Home() { return <main style={{fontFamily:"system-ui",padding:40}}><h1>NexusAI Video Studio</h1><p>API service is ready. Open interactive-demo/index.html for the standalone UI preview.</p></main>; }
